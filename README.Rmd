@@ -17,7 +17,7 @@ set.seed(24601)
 <!-- badges: start -->
 <!-- badges: end -->
 
-a template for creating a website in R Markdown
+change to 
 
 ## Set up hosting (once)
 
