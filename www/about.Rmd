@@ -2,3 +2,4 @@
 title: "About Me"
 ---
 
+I'm Kristen Huang (she/her pronoun). 
