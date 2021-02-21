@@ -17,8 +17,6 @@ set.seed(24601)
 <!-- badges: start -->
 <!-- badges: end -->
 
-change to 
-
 ## Set up hosting (once)
 
 1. Fork this repository. 
