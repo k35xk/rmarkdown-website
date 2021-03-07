@@ -15,6 +15,8 @@ navbar:
         - text: "Post 1"
           href: post1.html
         - text: "Post 2"
+          href: post3.html
+        - text: "Post 3"
           href: post2.html
   right:
     - icon: fa-envelope 
